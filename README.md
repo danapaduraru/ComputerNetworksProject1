@@ -19,5 +19,7 @@ g++ login.cpp -o login.exe
 ./login.exe
 ```
 
+
 ![alt text](https://image.ibb.co/inEcTL/start.jpg)
-![alt text]https://image.ibb.co/b9OFF0/myfind.jpg)
+
+![alt text](https://image.ibb.co/b9OFF0/myfind.jpg)
